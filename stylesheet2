@@ -1,0 +1,50 @@
+body{
+    margin:0;
+}
+.container1 {
+    width:100%;
+    margin:0;
+  }
+.top-wrapper{
+    background-image: url(summerfield1.jpg);
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom:200px;
+    color:black;
+    text-align: center;
+}
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(39, 36, 36, 0.5);
+    position:fixed;
+    top:0;
+    z-index:10;
+  }
+.logo a{
+    font-size: 25px;
+    color:white;
+}
+.logo{
+    padding: 20px 20px;
+}
+.main{
+    height: 500px;
+    background-color:#837c7c ;
+}
+.container3 {
+    padding-top: 20px;
+    text-align: center;
+}
+.container3 h3 {
+    letter-spacing: 3px;
+}
+footer{
+    background-color: #192035;
+    height:40px;
+    padding-top:8px;
+    padding-left:10px;
+}
+footer p{
+    color:white
+}
